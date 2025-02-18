@@ -1,0 +1,5 @@
+path: ./dataset  
+train: images/train  
+val: images/val  
+nc: 1  # Кількість класів (змініть під ваш випадок)
+names: ["drone"]  # Назви класів
